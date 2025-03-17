@@ -68,7 +68,7 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 
 </ol>
 <hr>
-<h2>PROGRAM:</h2>
+<h3>PROGRAM:</h3>
 <hr>
 ```
 from collections import deque
